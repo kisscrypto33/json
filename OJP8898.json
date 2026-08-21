@@ -1,0 +1,38 @@
+[
+    {
+        "order_xid": "OJP8898",
+        "http_status": 200,
+        "error": "",
+        "values": {
+            "xid": null,
+            "discount": "0",
+            "type": null,
+            "fromaccount": null,
+            "frombank": null,
+            "fromamount": null,
+            "fromname": null,
+            "bankcode": null,
+            "toaccount": null,
+            "tobank": null,
+            "toamount": null,
+            "memo": null,
+            "status": null,
+            "batch": null,
+            "noti": null,
+            "ph": null,
+            "recall": null,
+            "evnumber": null,
+            "evactive": null,
+            "comment": null,
+            "bankcodexid": null,
+            "verify": "0",
+            "rate_buy_usdt": "26,536",
+            "rate_sell_usdt": "25,464",
+            "text_discount_0": "0.0",
+            "text_discount": "",
+            "text_create": "",
+            "text_process": "",
+            "time_countdown": ""
+        }
+    }
+]
