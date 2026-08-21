@@ -1,6 +1,6 @@
 [
     {
-        "order_xid": "MOW0756",
+        "order_xid": "a",
         "http_status": 200,
         "error": "",
         "values": {
@@ -25,7 +25,14 @@
             "evactive": "None",
             "comment": "None",
             "bankcodexid": "USDT",
-            "verify": "1"
+            "verify": "1",
+            "toname": "NGUYEN DINH NGHI",
+            "rate_buy_usdt": "26,450",
+            "rate_sell_usdt": "25,378",
+            "text_discount_0": "0.0",
+            "text_discount": "300 (Discount)",
+            "text_create": "19/08/2026 09:51 : Bạn tạo đơn hàng.",
+            "text_process": "19/08/2026 09:51 : Hệ thống đang chờ bạn chuyển tiền..."
         }
     }
 ]
