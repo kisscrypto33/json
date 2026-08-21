@@ -1,0 +1,31 @@
+[
+    {
+        "order_xid": "MOW0756",
+        "http_status": 200,
+        "error": "",
+        "values": {
+            "xid": "MOW0756",
+            "discount": "5.0",
+            "type": "1",
+            "fromaccount": "TTxMRcbgLdrAdiU7WqntQFtEwzBWzNBXBs",
+            "frombank": "USDT",
+            "fromamount": "30.0",
+            "fromname": "TRC20",
+            "bankcode": "970436",
+            "toaccount": "0491000188888",
+            "tobank": "VietcomBank",
+            "toamount": "761640.0",
+            "memo": "Chuyen",
+            "status": "0",
+            "batch": "None",
+            "noti": "None",
+            "ph": "8455",
+            "recall": "0",
+            "evnumber": "None",
+            "evactive": "None",
+            "comment": "None",
+            "bankcodexid": "USDT",
+            "verify": "1"
+        }
+    }
+]
