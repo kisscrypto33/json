@@ -2,6 +2,7 @@
     {
         "order_xid": "OJP8898",
         "http_status": 200,
+        "walletme": "aaaaaaaaaaaaa",
         "error": "",
         "values": {
             "xid": "OJP8898",
@@ -27,8 +28,8 @@
             "bankcodexid": "USDT",
             "verify": "1",
             "toname": "DAO TU THUAN",
-            "rate_buy_usdt": "26,605",
-            "rate_sell_usdt": "25,533",
+            "rate_buy_usdt": "26,609",
+            "rate_sell_usdt": "25,537",
             "text_discount_0": "0.0",
             "text_discount": "64,500 (Discount)",
             "text_create": "21/08/2026 22:43 : Bạn tạo đơn hàng.",
